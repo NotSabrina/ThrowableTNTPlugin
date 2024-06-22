@@ -1,0 +1,8 @@
+name: ThrowableTNT
+version: 1.0
+main: me.supramental.throwabletnt.ThrowableTNT
+api-version: 1.20
+permissions:
+  throwtnt.throw:
+    description: Allows the player to throw TNT.
+    default: op

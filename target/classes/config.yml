@@ -1,0 +1,5 @@
+velocity: 1.5
+max-throw-distance: 20.0
+disabled-worlds:
+  - world_nether
+  - world_the_end
